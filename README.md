@@ -23,7 +23,7 @@ This contract is crafted using Solidity, ensuring a robust and secure way to han
 
 ## Testing the Blend (coming soon)
 
-The `/test` directory contains all the necessary tests ensuring the contract functions as smoothly as a finely brewed espresso. Run the tests to ensure the solidity of the contract before deploying to the mainnet.
+The `/test` directory contains all the necessary tests ensuring the contract functions as smoothly as a finely brewed espresso.
 
 ## Getting Involved
 
